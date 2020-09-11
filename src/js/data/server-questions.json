@@ -1,0 +1,271 @@
+[{
+    "type": "genre",
+    "question": "Выберите песни стиля R&B",
+    "genre": "rnb",
+    "answers": {
+      "song1": {
+        "src": "/mp3/One_Big_Country_Song.mp3",
+        "genre": "сountry"
+      },
+      "song2": {
+        "src": "/mp3/Level_Plane.mp3",
+        "genre": "rnb"
+      },
+      "song3": {
+        "src": "/mp3/In_the_Land_of_Rhinoplasty.mp3",
+        "genre": "rock"
+      },
+      "song4": {
+        "src": "/mp3/Long_Stroll.mp3",
+        "genre": "jazz"
+      }
+    }
+  },
+  {
+    "type": "artist",
+    "question": "Кто исполняет эту песню?",
+    "src": "/mp3/Travel_Light.mp3",
+    "answers": [{
+        "image": {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2016/08/20130604__epac0605castro1.jpg?w=289",
+          "width": 300,
+          "height": 300
+        },
+        "title": "Daniel Castro",
+        "isCorrect": false
+      },
+      {
+        "image": {
+          "url": "https://pbs.twimg.com/profile_images/1218218061293146112/BI9lK1RC_200x200.png",
+          "width": 300,
+          "height": 300
+        },
+        "title": "Jingle Punks",
+        "isCorrect": false
+      },
+      {
+        "image": {
+          "url": "https://i1.sndcdn.com/avatars-000216624513-pzfsjt-t500x500.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "title": "Audionautix",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "type": "genre",
+    "question": "Выберите музыку электро",
+    "genre": "electronic",
+    "answers": {
+      "song1": {
+        "src": "/mp3/Shopen.mp3",
+        "genre": "classical"
+      },
+      "song2": {
+        "src": "/mp3/The_Model.mp3",
+        "genre": "electronic"
+      },
+      "song3": {
+        "src": "/mp3/The_Real_Slim_Shady.mp3",
+        "genre": "hip-hop"
+      },
+      "song4": {
+        "src": "/mp3/Ricky_Martin.mp3",
+        "genre": "pop"
+      }
+    }
+  },
+  {
+    "type": "genre",
+    "question": "Выберите блюзовые песни",
+    "genre": "blues",
+    "answers": {
+      "song1": {
+        "src": "/mp3/Butterfly.mp3",
+        "genre": "rock"
+      },
+      "song2": {
+        "src": "/mp3/Level_Plane.mp3",
+        "genre": "rnb"
+      },
+      "song3": {
+        "src": "/mp3/Firefly.mp3",
+        "genre": "electronic"
+      },
+      "song4": {
+        "src": "/mp3/A_Change_is_Gonna_Come.mp3",
+        "genre": "blues"
+      }
+    }
+  },
+  {
+    "type": "artist",
+    "question": "Кто исполняет эту песню?",
+    "src": "/mp3/Girl_from_the_North_Country.mp3",
+    "answers": [{
+        "image": {
+          "url": "https://stuki-druki.com/aforizms/Bob-Dylan-01.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "title": "Bob Dylan",
+        "isCorrect": true
+      },
+      {
+        "image": {
+          "url": "https://24smi.org/public/media/celebrity/2017/02/07/U9rnZavw6IQK_frederik-shopen.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "title": "Шопен",
+        "isCorrect": false
+      },
+      {
+        "image": {
+          "url": "/img/default.png",
+          "width": 300,
+          "height": 300
+        },
+        "title": "Crazy Town",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "genre",
+    "question": "Выберите кантри треки",
+    "genre": "country",
+    "answers": {
+      "song1": {
+        "src": "/mp3/A_Change_is_Gonna_Come.mp3",
+        "genre": "blues"
+      },
+      "song2": {
+        "src": "/mp3/One_Big_Country_Song.mp3",
+        "genre": "country"
+      },
+      "song3": {
+        "src": "/mp3/Catch_the_wind.mp3",
+        "genre": "folk"
+      },
+      "song4": {
+        "src": "/mp3/Travel_Light.mp3",
+        "genre": "country"
+      }
+    }
+  },
+  {
+    "type": "artist",
+    "question": "Кто исполняет эту песню?",
+    "src": "/mp3/Tous_Les_Memes.mp3",
+    "answers": [{
+        "image": {
+          "url": "https://vokrug-tv.ru/pic/person/b/c/7/f/bc7f377bb9f3e86ed91ccbca98635c0a.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "title": "Ricky Martin",
+        "isCorrect": false
+      },
+      {
+        "image": {
+          "url": "https://pbs.twimg.com/profile_images/1218218061293146112/BI9lK1RC_200x200.png",
+          "width": 300,
+          "height": 300
+        },
+        "title": "Jingle Punks",
+        "isCorrect": false
+      },
+      {
+        "image": {
+          "url": "https://i.pinimg.com/originals/a8/31/21/a83121d472d8ee3a9e0114d0fc3917be.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "title": "Stromae",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "type": "genre",
+    "question": "Выберите джазовые треки",
+    "genre": "jazz",
+    "answers": {
+      "song1": {
+        "src": "/mp3/Long_Stroll.mp3",
+        "genre": "jazz"
+      },
+      "song2": {
+        "src": "/mp3/Empty_Arms.mp3",
+        "genre": "blues"
+      },
+      "song3": {
+        "src": "/mp3/That's_Life.mp3",
+        "genre": "jazz"
+      },
+      "song4": {
+        "src": "/mp3/Catch_the_wind.mp3",
+        "genre": "folk"
+      }
+    }
+  },
+  {
+    "type": "artist",
+    "question": "Кто исполняет эту песню?",
+    "src": "/mp3/Shopen.mp3",
+    "answers": [{
+        "image": {
+          "url": "https://24smi.org/public/media/celebrity/2017/02/07/U9rnZavw6IQK_frederik-shopen.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "title": "Shopen",
+        "isCorrect": true
+      },
+      {
+        "image": {
+          "url": "https://aif-s3.aif.ru/images/008/443/8ae39f5b6aec05042fa266d2bbe1db96.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "title": "Mozart",
+        "isCorrect": false
+      },
+      {
+        "image": {
+          "url": "https://img51994.1tv.com/img/2011-12-05/fmt_103_24_sinatra.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "title": "Sinatra",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "type": "genre",
+    "question": "Выберите хип-хоп треки",
+    "genre": "hip-hop",
+    "answers": {
+      "song1": {
+        "src": "/mp3/Tous_Les_Memes.mp3",
+        "genre": "hip-hop"
+      },
+      "song2": {
+        "src": "/mp3/Butterfly.mp3",
+        "genre": "rock"
+      },
+      "song3": {
+        "src": "/mp3/Ricky_Martin.mp3",
+        "genre": "pop"
+      },
+      "song4": {
+        "src": "/mp3/The_Real_Slim_Shady.mp3",
+        "genre": "hip-hop"
+      }
+    }
+  }
+]
